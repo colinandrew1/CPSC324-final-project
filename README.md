@@ -11,4 +11,3 @@ Poppe, O., Guo, Q., Lang, W., Arora, P., Oslake, M., Xu, S., & Kalhan, A. (2022)
 * "CPSC 324 Big Data Analytics Final Project.pdf" contains the slides used in the [video presentation](https://www.youtube.com/watch?v=fWCGwrW1P2s)  
 * "Notes.pdf" contains the notes corresponding to the papers
 * "Relation to Big Data Analytics.pdf" contains a describes how the papers relate to the content covered throughout the semester  
-* "project status update.pdf" contains the project status update as of 4/22/24
